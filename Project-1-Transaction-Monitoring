@@ -1,3 +1,20 @@
-README.md
-transaction_monitoring.ipynb
-requirements.txt
+# Project 1: AI-Powered Transaction Monitoring & False Positive Reduction
+
+**Goal**: Build a machine learning model to detect suspicious transactions while reducing false positives — a major challenge in Financial Crime Compliance (FCC) and AML systems.
+
+**Dataset**: IBM Transactions for Anti-Money Laundering (Kaggle)
+
+**Technologies Used**:
+- Python
+- XGBoost
+- scikit-learn
+- pandas
+
+**Key Results**:
+- [You will fill this in after running the model — e.g. Reduced false positives by 32%]
+
+**Business Impact**:
+This type of model supports Capgemini’s AI-driven AML modernization efforts by automating screening and reducing manual review workload for compliance teams.
+
+**How to Run**:
+Open `transaction_monitoring.ipynb` in Google Colab.
